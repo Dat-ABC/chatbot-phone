@@ -1,12 +1,24 @@
-# System Using Chatbot for Sales Consulting
+## 🤖 Chatbot Sales Consulting System
 
-### The system's data retrieval ability achieved 93.58% accuracy.
+**🚀 Key Metric:**  
+> **Data Retrieval Accuracy:** **93.58%**
 
-Below is a diagram of the system.
+---
 
-![System Diagram](images/Flowchart_chatbot.png)
+### 📊 System Architecture
 
+<p align="center">
+  <img src="images/System_Diagram.png" alt="System Diagram" width="600" />
+</p>
 
-Introductory video
-[![Xem demo trên YouTube](https://img.youtube.com/vi/klJBDH6y8X4/0.jpg)](https://youtu.be/klJBDH6y8X4)
+---
+
+### ▶️ Demo Video
+
+<p align="center">
+  <a href="https://youtu.be/klJBDH6y8X4" target="_blank">
+    <img src="https://img.youtube.com/vi/klJBDH6y8X4/0.jpg" alt="Watch Demo on YouTube" width="480" />
+  </a>
+</p>
+
 
