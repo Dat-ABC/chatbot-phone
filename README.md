@@ -8,7 +8,7 @@
 ### 📊 System Architecture
 
 <p align="center">
-  <img src="images/System_Diagram.png" alt="System Diagram" width="600" />
+  <img src="images/Flowchart_chatbot.png" alt="System Diagram" width="600" />
 </p>
 
 ---
