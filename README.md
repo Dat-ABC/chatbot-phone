@@ -2,7 +2,7 @@
 
 ### The system's data retrieval ability achieved 93.58% accuracy.
 
-![System Diagram](images/Flowchart_chatbot.png)
+![System Diagram](images/Flowchart_chatbot.png) System Diagram
 
 
 
